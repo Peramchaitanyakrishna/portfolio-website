@@ -69,7 +69,7 @@ nav ul li a:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(rgba(12, 60, 120, 0.7), rgba(12, 60, 120, 0.7)), background-image('C:\Users\91766\Downloads\back.jpg') center/cover no-repeat;
+    background: linear-gradient(rgba(12, 60, 120, 0.7), rgba(12, 60, 120, 0.7)), background-image('img.jpg') center/cover no-repeat;
     height: 100vh;
     text-align: center;
     color: #fff;
